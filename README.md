@@ -1,4 +1,5 @@
 # Customer-Churn-Analysis
+Kaggle Dataset Used: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn
 
 Objective: Creating a Customer Churn Prediction model and gain insights through Customer Segmentation on the data.
 
